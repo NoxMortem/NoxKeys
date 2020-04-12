@@ -1,3 +1,9 @@
+# Obsolete
+
+NoxKeys predates the [Unity3d InputSystem](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/index.html). I highly recommend to switch to it, as it has the same goal, and while it requires an even more verbose syntax and is more complex, it does scale much better (across number of keys, number of controllers, etc).
+
+I will leave this repository public and available, for anyone of interest, but there won't be any further development.
+
 # NoxKeys
 Simple utiltiy scripts helpful to decouple key bindings from handling code.
 
